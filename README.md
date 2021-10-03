@@ -1,4 +1,5 @@
 # Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  \<XX\>/\<YY\>)
+Autor/a: <Ada Byron>   uvus:<uvus>
 
 Aquí debes añadir la descripción del dataset
 
