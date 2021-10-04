@@ -1,7 +1,7 @@
 # Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  \<XX\>/\<YY\>)
 Autor/a: \<nombre del autor\>   uvus:\<uvus del autor\>
 
-Aquí debes añadir la descripción del dataset
+Aquí debes añadir la descripción del dataset y un enunciado del dominio del proyecto.
 
 
 ## Estructura de las carpetas del proyecto
