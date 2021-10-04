@@ -24,6 +24,10 @@ El dataset está compuesto por \<N\> columnas, con la siguiente descripción:
 * **\<columna 2>**: de tipo \<tipo\>, representa....
 ....
 
+## Tipos implementados
+
+Descrbe aquí la o las namedtuple que defines en tu proyecto.
+
 ## Funciones implementadas
 Añade aquí descripciones genéricas de las funciones, que luego debes acompañar con comentarios de tipo documentación en el código
 
